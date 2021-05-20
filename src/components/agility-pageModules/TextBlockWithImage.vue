@@ -33,7 +33,7 @@
         <div class="g:py-8 text-center md:text-left">
           <template v-if="fields.tagline">
             <span
-              class="font-bold text-primary-500 text-sm text-center md:text-left uppercase"
+              class="font-bold text-red-500 text-sm text-center md:text-left uppercase"
             >
               {{ fields.tagline }}
             </span>
